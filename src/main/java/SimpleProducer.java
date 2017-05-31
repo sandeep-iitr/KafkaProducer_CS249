@@ -27,7 +27,7 @@ public class SimpleProducer {
 //        }
 
         //Assign topicName to string variable
-        String topicName = "test";//args[0].toString();
+        String topicName = "my-replicated-topic";//args[0].toString();
 
         // create instance for properties to access producer configs
         Properties props = new Properties();
